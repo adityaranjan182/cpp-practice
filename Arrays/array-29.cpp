@@ -1,4 +1,4 @@
-//You are given an array arr[] of N integers including 0. The task is to find the smallest positive number missing from the array.
+//You are given an array arr[] of N integers. The task is to find the smallest positive number missing from the array.
 // { Driver Code Starts
 #include<bits/stdc++.h>
 using namespace std;
