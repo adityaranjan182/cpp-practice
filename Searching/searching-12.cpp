@@ -1,9 +1,8 @@
 /*Given two sorted arrays arr[] and brr[] of sizes N and M respectively. 
 The task is to find the median of the two arrays when they get merged.
+Expected Time Complexity : O(log(max(m,n)))
+Expected Auxilliary Space : O(1)
 */
-
-// { Driver Code Starts
-//Initial template for C++
 
 #include <bits/stdc++.h>
 using namespace std;
