@@ -16,11 +16,10 @@ void bubble_sort(int arr[], int n)
         {
             if (arr[j]>arr[j+1])
             {
-                //swap(arr[j+1],arr[j]);
                 int temp = arr[j];
                 arr[j] = arr[j+1];
                 arr[j+1] = temp;
-                flag = 0;
+                flag = 1;
             }
         }
         if (flag==0)
